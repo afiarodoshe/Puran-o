@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836025938027",
+    "firebase_url": "https://addpdf-b515b.firebaseio.com",
+    "project_id": "addpdf-b515b",
+    "storage_bucket": "addpdf-b515b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836025938027:android:d6a3c38748f859de",
+        "android_client_info": {
+          "package_name": "com.example.addpdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836025938027-h3tq5t6fn2pkp6vrlpto109n8inl14ue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.addpdf",
+            "certificate_hash": "4edb203dd183a58955a279bcbd0907c4ba7504f3"
+          }
+        },
+        {
+          "client_id": "836025938027-mrf6gp0vqusllcf2h7k1jg0h4788rgar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPQmZ3jY3ree0modTjFLgLMSk-GAr-ACw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836025938027-mrf6gp0vqusllcf2h7k1jg0h4788rgar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
